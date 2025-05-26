@@ -32,7 +32,7 @@ A powerful ComfyUI custom node that seamlessly integrates LM Studio's local lang
 
 2. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/ComfyUI-LM-Studio.git
+   git clone https://github.com/gabe-init/ComfyUI-LM-Studio
    ```
 
 3. Install the required dependencies:
