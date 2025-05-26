@@ -21,6 +21,7 @@ A powerful ComfyUI custom node that seamlessly integrates LM Studio's local lang
 1. **ComfyUI**: Make sure you have ComfyUI installed and running
 2. **LM Studio**: Download and install [LM Studio](https://lmstudio.ai/) (free)
 3. **Python**: Python 3.8 or higher
+4. **Show Text Node**: Install [ComfyUI-Custom-Scripts](https://github.com/pythongosssss/ComfyUI-Custom-Scripts) for the Show Text node used in the example workflow (any other text display node will also work)
 
 ### Installation Steps
 
