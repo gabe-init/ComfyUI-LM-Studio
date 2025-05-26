@@ -1,0 +1,4 @@
+requests==2.31.0
+lmstudio>=1.2.0
+Pillow
+numpy
